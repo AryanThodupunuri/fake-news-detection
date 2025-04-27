@@ -3,6 +3,8 @@ This project focuses on building machine learning models to classify news articl
 Using a labeled dataset of true and fake news articles, we apply basic and advanced NLP techniques to embed the text and train multiple classifiers.
 The goal is to accurately predict the authenticity of a news article based solely on its textual content.
 
+Slides: https://docs.google.com/presentation/d/1O6zvA1qc9yosN8gsIyLeK7aX5m-wGIFh/edit#slide=id.p1
+
 # Dataset
 Source: Fake News Detection Dataset on Kaggle
 
